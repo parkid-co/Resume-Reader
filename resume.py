@@ -1,5 +1,5 @@
 def read_resume_file():
-    file_path = 'resume.txt'
+    file_path = 'Resume-Reader/Resume.txt'
     print(f"--- Reading content from: {file_path} ---")
     try:
         with open(file_path, 'r') as file:
